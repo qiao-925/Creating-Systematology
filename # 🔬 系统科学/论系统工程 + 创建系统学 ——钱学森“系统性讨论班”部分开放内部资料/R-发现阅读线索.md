@@ -30,8 +30,8 @@
 67 done big one
 81 done
 135
-151
-153
+151 done
+153 done
 
 ## 地理科学延伸（from致于景元）【2】
 
